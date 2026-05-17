@@ -8,10 +8,10 @@ public class Se1907Se190662RmsPeApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(Se1907Se190662RmsPeApplication.class, args);
-
+        test1();
     }
 
-    public void testLanThuEnNo() {
-        System.out.println("Hiếu Chó Đẻ");
+    public static void test1() {
+        System.out.println("hahahahaha");
     }
 }
