@@ -11,5 +11,7 @@ public class Se1907Se190662RmsPeApplication {
 
     }
 
-    
+    public void testLanThuEnNo() {
+        System.out.println("Hiếu Chó Đẻ");
+    }
 }
