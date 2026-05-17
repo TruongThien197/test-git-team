@@ -12,6 +12,6 @@ public class Se1907Se190662RmsPeApplication {
     }
 
     public static void test1() {
-        System.out.println("hahahahaha");
+        System.out.println("hahahahahaha");
     }
 }
