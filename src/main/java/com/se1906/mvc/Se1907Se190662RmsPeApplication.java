@@ -8,10 +8,8 @@ public class Se1907Se190662RmsPeApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(Se1907Se190662RmsPeApplication.class, args);
-        test1();
+
     }
 
-    public static void test1() {
-        System.out.println("hahahahaha");
-    }
+    
 }
